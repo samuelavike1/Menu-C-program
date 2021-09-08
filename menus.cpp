@@ -5,14 +5,7 @@ using namespace std;
 
 int main(){
 	int choice;
-		cout<<endl;
-		cout <<"\t\t\t-------------------------GROUP MEMBERS--------------------------\n";
-		cout <<"\t\t\tNAMES"<<setw(60)<<"INDEX NUMBERS\n";
-		cout <<"\t\t\tAVIKE APUSIYINE SAMUEL                                  06201090\n";
-		cout <<"\t\t\tISSIFU ABDALLAH FOBUR                                   06201159\n";
-		cout <<"\t\t\tHARRIET ARKO                                            06201081\n";
-		cout <<"\t\t\tFOSU RICHARD                                            06201136\n";
-		cout <<"\t\t\tKWOYIRE REX                                             06201169\n";
+
 		cout<<endl;
 		cout<<endl;
 		cout <<"\t\t\t*******************************************************\n";
